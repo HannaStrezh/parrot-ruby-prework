@@ -1,4 +1,4 @@
-def parrot(method = "Squawk!")
+def #(parrot = "Squawk!")
   puts "Squawk!"
        "Squqwk!"
   
